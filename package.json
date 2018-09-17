@@ -1,0 +1,16 @@
+{
+  "name": "r-infuse",
+  "version": "1.0.0",
+  "description": "utils to simplify creating an index file for importing all modules in the same directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "infuse",
+    "easy",
+    "imports"
+  ],
+  "author": "roy.q",
+  "license": "MIT"
+}
