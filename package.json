@@ -1,7 +1,12 @@
 {
   "name": "r-infuse",
   "version": "1.0.0",
-  "description": "utils to simplify creating an index file for importing all modules in the same directory",
+  "description": "utils to simplify importing all modules in the same directory",
+  "homepage": "https://github.com/ruanqisevik/r-infuse#readme",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ruanqisevik/r-infuse.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +16,6 @@
     "easy",
     "imports"
   ],
-  "author": "roy.q",
+  "author": "Q.Roy",
   "license": "MIT"
 }
