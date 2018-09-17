@@ -1,11 +1,11 @@
 {
-  "name": "r-infuse",
+  "name": "q-infuse",
   "version": "1.0.0",
   "description": "utils to simplify importing all modules in the same directory",
-  "homepage": "https://github.com/ruanqisevik/r-infuse#readme",
+  "homepage": "https://github.com/ruanqisevik/q-infuse#readme",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/ruanqisevik/r-infuse.git"
+    "url" : "https://github.com/ruanqisevik/q-infuse.git"
   },
   "main": "index.js",
   "scripts": {
